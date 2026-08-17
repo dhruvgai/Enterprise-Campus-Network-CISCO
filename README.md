@@ -222,26 +222,6 @@ Authorized administrative and management networks can access required server res
 
 ---
 
-## 📂 Repository Structure
-
-
-enterprise-campus-network-cisco/
-│
-├── README.md
-│
-├── Documentation/
-│   └── Enterprise_Campus_Network_Project_Report.docx
-│
-├── Packet_Tracer/
-│   └── Enterprise_Campus_Network.pkt
-│
-├── Configuration/
-│  
-│
-├── Diagrams/
-     ├── Network_Topology.png
-     └── Project_Flowchart.png
-
 
 
 
@@ -430,28 +410,6 @@ Open the `.pkt` file using Cisco Packet Tracer to inspect the topology and confi
 
 ---
 
-## 📸 Screenshots
-
-Verification screenshots are available in:
-
-```text
-Screenshots/
-```
-
-They demonstrate configuration and operational verification of:
-
-- VLANs
-- Trunks
-- EtherChannel
-- STP
-- HSRP
-- OSPF
-- DHCP
-- SSH
-- ACLs
-- Connectivity
-
----
 
 ## 📈 Project Outcomes
 
