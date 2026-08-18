@@ -51,7 +51,7 @@ The distribution switches provide Layer 3 services, routing, gateway redundancy,
 
 The complete network topology is available in the `Diagrams` directory.
 
-![Enterprise Campus Network Topology](Diagrams/Network_Topology.png)
+![Enterprise Campus Network Topology](Diagrams/Network_Topology.jpg)
 
 
  🔹 VLAN and IP Addressing Plan
